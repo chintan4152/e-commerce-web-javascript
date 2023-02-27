@@ -1,0 +1,122 @@
+.to{
+    background-color: black;
+    color: white;
+  
+}
+/* your CSS goes here*/
+body {
+    height: 1200px
+}
+
+nav {
+    background: #fcfafa
+}
+
+.nav-link {
+    font-size: 1.2em;
+    color: #000000 !important;
+    font-weight: 500
+}
+
+.active .nav-link {
+    border-bottom: 1px solid #00ffc8;
+    color: #000000 !important
+}
+a {
+    text-decoration: none;
+  }
+
+.allus{
+    color: rgb(103,101,58);
+}
+.butto{
+    background-color:  rgb(103,101,58);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+
+}
+.btn{
+    display: none;
+
+}
+.btn.dropdown-menu:hover{
+    display: block;
+}
+.butto:hover{
+    background-color: black;
+}
+
+
+.FEATURED{
+    background-color:  rgb(103,101,58);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+.FEATURED1{
+   border: 0.5px;
+    color: rgb(103,101,58);
+    border-radius: 30px;
+   
+    padding: 10px 20px;
+    font-size: 15px;
+}
+
+.img1{
+font-size: 20px;
+}
+.top{
+    display: flex;
+    width: 100%;
+
+}
+.topw{
+    width: 25%;
+}
+div.the{
+    margin: 70px 500px 50px 100px;
+    padding: 50px 30px 70px 30px;
+
+}
+div.day{
+background-color: rgb(182, 99, 99);
+border-radius: 100%;
+margin: 0px 400px 0px 10px;
+}
+.fun{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 80px;
+    margin: 0px 45px 0px 15px;
+    padding: 10px 15px 10px 15px
+}
+.fun1{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 80px;
+    margin: 0px 50px 0px 0px;
+    padding: 10px 10px 10px 15px
+}
+
+.fun2{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 80px;
+    margin: 0px 30px 0px 00px;
+    padding: 10px 15px 10px 15px
+}
+
+.fun3{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 80px;
+    margin: 0px 30px 0px 5px;
+    padding: 10px 5px 0px 10px
+}
+
+
